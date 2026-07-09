@@ -22,4 +22,3 @@ steps:
     ArtifactName: 'PlaywrightHtmlReport'
     publishLocation: 'Container'
   displayName: 'Publishing Playwright Html Reports...'
-	
